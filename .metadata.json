@@ -2,5 +2,9 @@
   {
     "package": "BMisc",
     "oncran": true
+  },
+  {
+    "package": "did",
+    "oncran": true
   }
 ]
