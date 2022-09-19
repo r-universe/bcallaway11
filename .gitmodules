@@ -8,8 +8,3 @@
 	url = https://github.com/bcallaway11/bmisc
 	shallow = true
 	registered = true
-[submodule "did"]
-	path = did
-	url = https://github.com/bcallaway11/did
-	shallow = true
-	registered = true
