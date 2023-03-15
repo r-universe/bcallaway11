@@ -6,5 +6,9 @@
   {
     "package": "did",
     "oncran": true
+  },
+  {
+    "package": "qte",
+    "oncran": true
   }
 ]

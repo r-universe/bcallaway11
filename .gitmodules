@@ -13,3 +13,8 @@
 	url = https://github.com/bcallaway11/did
 	shallow = true
 	registered = true
+[submodule "qte"]
+	path = qte
+	url = https://github.com/bcallaway11/qte
+	shallow = true
+	registered = true
