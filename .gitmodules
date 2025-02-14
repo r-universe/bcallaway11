@@ -8,6 +8,9 @@
 [submodule "did"]
 	path = did
 	url = https://github.com/bcallaway11/did
+[submodule "ptetools"]
+	path = ptetools
+	url = https://github.com/bcallaway11/ptetools
 [submodule "qte"]
 	path = qte
 	url = https://github.com/bcallaway11/qte
