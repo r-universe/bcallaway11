@@ -5,6 +5,9 @@
 [submodule "BMisc"]
 	path = BMisc
 	url = https://github.com/bcallaway11/bmisc
+[submodule "contdid"]
+	path = contdid
+	url = https://github.com/bcallaway11/contdid
 [submodule "did"]
 	path = did
 	url = https://github.com/bcallaway11/did
